@@ -1,3 +1,26 @@
+# Steps to Run
+Set up a Next.js project:
+
+```bash
+npx create-next-app kpi-board
+```
+Install dependencies:
+
+```bash
+npm install chart.js react-chartjs-2
+npm install -g npm@latest
+```
+Replace pages/index.js with the code above.
+
+Run the app:
+
+```bash
+npm run dev
+```
+Open http://localhost:3000 in your browser to view the app.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
