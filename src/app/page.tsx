@@ -16,7 +16,7 @@ export default function Home() {
     // { name: 'Stutz', budget: 80000, burnRate: 80000, status: 'Completed', people: 3, link: '#' },
   //{ name: 'SkillBuddy', budget: 50000, burnRate: 20000, status: 'In Development', people: 12, link: '#' },
   //{ name: 'Welshare', budget: 50000, burnRate: 20000, status: 'In Development', people: 2, link: '#' },
-  
+
     { name: 'Business Development', budget: 80000, burnRate: 80000, status: 'Completed', people: 3, link: '#' },
     { name: 'Development', budget: 50000, burnRate: 20000, status: 'In Development', people: 12, link: '#' },
     { name: 'Marketing', budget: 50000, burnRate: 20000, status: 'In Development', people: 2, link: '#' },
@@ -27,9 +27,9 @@ export default function Home() {
     { name: 'HR Recruitment', budget: 60000, burnRate: 20000, status: 'Planning', people: 1, link: '#' },
   ];
 
-  const filteredProjectData = selectedProject === 'All'
-    ? projectData
-    : projectData.filter(project => project.name === selectedProject);
+  //const filteredProjectData = selectedProject === 'All'
+  //  ? projectData
+  //  : projectData.filter(project => project.name === selectedProject);
 
   const chartData = {
   labels: projectData.map((project) => project.name),
