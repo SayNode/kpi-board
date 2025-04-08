@@ -19,10 +19,16 @@ npm run dev
 ```
 Open http://localhost:3000 in your browser to view the app.
 
+# Tasks:
+<img width="957" alt="1" src="https://github.com/user-attachments/assets/cde08f7e-7f15-4cb7-9d2a-cdbde5bbb80d" />
 
+# General :
+<img width="962" alt="2" src="https://github.com/user-attachments/assets/a8053e84-74d0-4a37-a895-3a78d6354f13" />
+
+# Dashboard burn rate :
+<img width="945" alt="3" src="https://github.com/user-attachments/assets/8cee9a54-a633-4e6b-a226-5f573d8e0f0b" />
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
