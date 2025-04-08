@@ -19,6 +19,9 @@ npm run dev
 ```
 Open http://localhost:3000 in your browser to view the app.
 
+# Live version:
+https://kpi-board-tomkaxxs-projects.vercel.app/
+
 # Tasks:
 <img width="957" alt="1" src="https://github.com/user-attachments/assets/cde08f7e-7f15-4cb7-9d2a-cdbde5bbb80d" />
 
